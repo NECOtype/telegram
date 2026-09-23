@@ -30,13 +30,13 @@ Currently, the main link has issues. You can use this link instead:
   </tr>
   <tr>
     <td width="33.33%">
-        <img alt="rosepine" src="https://github.com/user-attachments/assets/9a297a4a-5c2e-4634-99a2-c15d192dca5c" />
+        <img alt="rosepine" src="https://r2.git.kat.tf/telegram/tga-rosepine.webp" />
     </td>
     <td width="33.33%">
-      <img alt="rosepine-moon" src="https://github.com/user-attachments/assets/c33cc2af-d18d-454b-8c12-3c622e952c0e" />
+      <img alt="rosepine-moon" src="https://r2.git.kat.tf/telegram/tga-rosepine-moon.webp" />
     </td>
     <td width="33.33%">
-      <img alt="rosepine-dawn" src="https://github.com/user-attachments/assets/1d2174ab-613e-4dac-9945-3a16814b9d4c" />
+      <img alt="rosepine-dawn" src="https://r2.git.kat.tf/telegram/tga-rosepine-danw.webp" />
     </td>
   </tr>
 </table>
