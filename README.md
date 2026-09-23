@@ -36,7 +36,7 @@ Currently, the main link has issues. You can use this link instead:
       <img alt="rosepine-moon" src="https://r2.git.kat.tf/telegram/tga-rosepine-moon.webp" />
     </td>
     <td width="33.33%">
-      <img alt="rosepine-dawn" src="https://r2.git.kat.tf/telegram/tga-rosepine-danw.webp" />
+      <img alt="rosepine-dawn" src="https://r2.git.kat.tf/telegram/tga-rosepine-dawn.webp" />
     </td>
   </tr>
 </table>
